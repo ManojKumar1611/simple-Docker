@@ -1,1 +1,1 @@
-print("Omega-Rainbow")
+print("Omega Rainbow")
